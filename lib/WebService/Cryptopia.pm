@@ -18,7 +18,7 @@ with "MooseX::Log::Log4perl";
 
 =head1 NAME
 
-WebService::Cryptopia
+WebService::Cryptopia - Interface to Cryptopia.
 
 
 =head1 DESCRIPTION
